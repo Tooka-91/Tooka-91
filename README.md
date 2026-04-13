@@ -1,9 +1,9 @@
 # Tooka_91
 
 ## 👦 Profile
-- Tech Recruiter, working in JP
+- Tech Recruiter, working in JP🇯🇵
 - Founder / Organizer [@localtechjp](https://x.com/localtech_jp)
-- Living with 🐈(Kura) 
+- Living with 😺(Kura) 
 
 ## 🛠️ My Projects
 
