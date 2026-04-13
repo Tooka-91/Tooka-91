@@ -24,4 +24,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white)
 
-[![X](https://img.shields.io/badge/X-@Tooka__91-black?logo=x&logoColor=white)](https://x.com/Tooka_91)
+[![X @Tooka_91](https://img.shields.io/badge/X-@Tooka_91-000000?style=flat&logo=x&logoColor=white)](https://x.com/Tooka_91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kazuyatooka-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuyatooka)
