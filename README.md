@@ -1,8 +1,7 @@
 # Tooka-91
 
 ## 👦 Profile
-- I was born in Nagoya🐓, Japan.
-- Tech Recruiter, working in TY0🗼, JP🇯🇵 ex-MoneyForward, Misoca(Yayoi)
+- DevHR, working in TY0🗼, JP🇯🇵 ex-MoneyForward, Misoca(Yayoi)
 - Living with 🐈(Kura) 
 
 ## 🛠️ My Projects
