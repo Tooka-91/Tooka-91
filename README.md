@@ -2,7 +2,7 @@
 
 ## 👦 Profile
 - DevHR, working in TY0🗼, JP🇯🇵 ex-MoneyForward, Misoca(Yayoi)
-- Living with 🐈(Kura) 
+- Living with 🐈(Kura)
 
 ## 🛠️ My Projects
 
