@@ -12,7 +12,7 @@
 |---|---|---|
 | 🚧 | **[Prodlive](https://github.com/TOUOKA/prodlive)** | Back-office SaaS for tech event organizers — shareable speaker links with no login required |
 | 🚧 | **Gaman** | Impulse-spending restraint tracker — records moments of *not* buying and visualizes savings toward a dream purchase | 
-| ⚙️ | **[BuildUp](https://github.com/Tooka-91/buildup)** | AI-powered analytics for tech events — analyze banners, speakers, and content to unlock attendance patterns |
+| ⚙️ | **[BuildUp！](https://github.com/Tooka-91/buildup)** | AI-powered analytics for tech events — analyze banners, speakers, and content to unlock attendance patterns |
 
 > 🚧 In Progress  |  🚀 Launched  |  ⚙️ Self-Hosted
 
